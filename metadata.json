@@ -1,0 +1,6 @@
+{
+  "name": "DHUPL - Damped High Utility Pattern Mining (Java & Interactive Suite)",
+  "description": "Cài đặt hoàn chỉnh thuật toán DHUPL bằng ngôn ngữ Java và hệ thống mô phỏng khai phá 18 tập HUI, đánh giá hiệu năng Part IV trên các bộ dữ liệu Accidents, Mushroom, Chain-store, Retail kèm xuất file log chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
